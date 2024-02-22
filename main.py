@@ -450,5 +450,5 @@ def bot_run():
 def a():
     i = int(1.5)
     print(i)
-#start_bot()
+start_bot()
 bot_run()
